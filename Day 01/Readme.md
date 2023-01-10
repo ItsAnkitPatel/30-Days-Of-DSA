@@ -117,16 +117,49 @@ std::fill(arr,arr+5,10);
 ```
 **How to print an array ?**
 >You can use loop or foreach loop in where you don't need to give condition and increament value
+
+**Point to remember :**
+>When you pass array to an function you actually passing the address of the first element of the array through which you can traverse the whole array without any issue. So if you do any changes during function execution those changes will actually happen in original array.
 ```c++
-int arr[5] = {};
-for(int i =0; i < 5; i++{
-cout<<i<<" ";
+#include <iostream>
+using namespace std;
+void update(int num[],int size){
+    num[0] = 10;
+    num[1] = 20;
+    for(int j =0; j<size;j++){
+        cout<<num[j]<<" ";
+    }
+}
+
+int main(){
+    int arr[] ={1,2,3,4,5};
+    cout<<"Before update"<<endl;
+    for (int i = 0; i < 5; i++)
+    {
+       cout<<arr[i]<<" ";
+    }
+    cout<<endl;
+    cout<<"After update"<<endl;
+    update(arr,5);
+    cout<<endl;
+
+return 0;
 }
 ```
-**foreach loop**
-```c++
-int arr[5] = {};
-for(int i : arr){
-cout<<i<<" ";
-}
+**Output**
 ```
+Before update
+1 2 3 4 5 
+After update
+10 20 3 4 5 
+```
+This concept is called _pass by reference_.
+
+**If you still don't understand then think in this way :** Suppose you have a file which is on your google drive and your friend have access of that file too so when your friend do any changes in that file then those changes will refelect on your side of file too.
+
+<img src= "/media/gifs/easy.gif" height ="250">
+
+**hope so**👀
+
+
+
