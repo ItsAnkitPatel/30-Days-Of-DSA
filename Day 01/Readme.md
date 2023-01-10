@@ -9,6 +9,7 @@ If you are new to my journey you may ask to me why I started from Lecture 9 🤨
 
   
 **The answer is :** because I already completed last 8 lectures in my 📍[30-Days-Of-C++](https://github.com/ItsAnkitPatel/30-Days-Of-cpp/tree/main/Day%2016/Programming) repo already so writing all those again is not very useful(these are my thought)
+<hr>
 </details>
 
 
@@ -72,7 +73,7 @@ Compiler will say : too many initializers for int[5]
 **If we write in this way :**
 
 ```c++
-int arr[5] ={};
+int arr[5] ;
 ```
 And try to print each value the compiler will give us a garbage value(random negative or postive integer value will be given by the compiler in this case )
 
@@ -97,7 +98,7 @@ The output will be
 0
 0
 ```
-So what are the ways to initialze all the members value with the same value which we want to give.<br>
+**So what are the ways to initialze all the members value with the same value which we want to give**.<br>
 There are many ways of course but I know two ways till now and those are :<br>
 1.Using loop<br>
 2.By using `std::fill(startingIndex,endIndex,constantValue)`
@@ -114,5 +115,18 @@ int arr[5] ;
 int arr[5];
 std::fill(arr,arr+5,10);
 ```
-
-
+**How to print an array ?**
+>You can use loop or foreach loop in where you don't need to give condition and increament value
+```c++
+int arr[5] = {};
+for(int i =0; i < 5; i++{
+cout<<i<<" ";
+}
+```
+**foreach loop**
+```c++
+int arr[5] = {};
+for(int i : arr){
+cout<<i<<" ";
+}
+```
