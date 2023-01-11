@@ -161,5 +161,31 @@ This concept is called _pass by reference_.
 
 **hope so**👀
 
+<br>
 
+<hr>
 
+**Date :** `11-01-2023`
+
+### Linear Search
+
+Linear search is an searching algorithm which we use to find a target element in a given array.<br>
+In linear search we search each index value with our target value and if we find our target we return the index or we just return true in case of its existence in the array.
+
+The worst case time complexity is order of n O(n) : when our target element is present at the last index of the array or not even present.
+
+The best case time complexity is order of 1 O(1) : When our target element is present at the first index of the array.
+
+```c++
+
+int doLinearSearch(int arr[],int size, int target){
+  
+  for(int i =0 ; i <size; i++){
+    if(target ==arr[i]){
+      return i; //returning index at which our target is found
+    }
+    
+  return -1; //Incase the target is not present in the array
+ }
+
+```
