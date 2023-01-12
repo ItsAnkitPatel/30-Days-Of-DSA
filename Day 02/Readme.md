@@ -18,3 +18,14 @@ Output array : [2,1,4,3,6,5,7]
 ```
 >[📍Solution](/Day%2002/ArraysQuest/01.%20SwapAlternate%20elements.md)
 
+**2. Find unique number in array**
+
+[📍Leetcode Link](https://leetcode.com/problems/single-number/description/)
+
+[📍Codestudio link](https://www.codingninjas.com/codestudio/problems/find-unique_625159?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1)
+
+```c++
+Given array : [4,1,2,1,2]
+Output : 4
+```
+>[📍Solution](/Day%2002/ArraysQuest/02.%20Find%20Unique%20number.md)
