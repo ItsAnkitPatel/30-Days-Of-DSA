@@ -9,10 +9,12 @@ Today we solved questions from leetcode and codestudio(coding ninjas coding plat
 
 ## Questions
 **1.  Swap alternate number**
+
+[📍Problem Link](https://www.codingninjas.com/codestudio/problem-details/swap-alternate_624941)
 ```c++
 Given array  : [1,2,3,4,5,6,7]
 
 Output array : [2,1,4,3,6,5,7]
 ```
-[📍Problem Link](https://www.codingninjas.com/codestudio/problem-details/swap-alternate_624941)
+>[📍Solution](/Day%2002/ArraysQuest/01.%20SwapAlternate%20elements.md)
 
