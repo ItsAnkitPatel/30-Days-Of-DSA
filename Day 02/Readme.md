@@ -29,3 +29,14 @@ Given array : [4,1,2,1,2]
 Output : 4
 ```
 >[📍Solution](/Day%2002/ArraysQuest/02.%20Find%20Unique%20number.md)
+
+**3. Duplicate in an array**
+
+[📍Problem Link](https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTab=0)
+
+```c++
+Given array : [4,2,1,3,1]
+Output : 1
+```
+
+>[📍Solution](/Day%2002/ArraysQuest/03.%20FInd%20duplicate%20number%20in%20array.md)
