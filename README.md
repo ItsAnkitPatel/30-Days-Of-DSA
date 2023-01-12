@@ -4,5 +4,5 @@ I started this 30 days of DSA challenge on `10-01-2023` to keep myself consisten
 
 I choose Love Babbar [DSA Playlist](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) for learning purpose.
 
-I update my daily learnings day wise and all the leetcode questions code will be shared here too.
+I update my daily learnings day wise and all the leetcode questions code in C++ and Java both will be shared here too.
 </b>
