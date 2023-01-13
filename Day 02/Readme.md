@@ -52,6 +52,12 @@ Output : 1
 <br>
 <br>
 
+<hr>
+
+**Date :** `13-01-2023`
+
+<br>
+
 **4. Intersection of two Arrays**
 
 [📍Problem Link](https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTab=0)
