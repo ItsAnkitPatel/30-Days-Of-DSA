@@ -73,3 +73,19 @@ Output : 2 2 3
 
 <br>
 <br>
+
+**5. Pair sum**
+
+Find all pairs in an array whose sum is equal to the given target value.<br>
+Here 5 is the array size and 5 is the target value.
+
+[📍Problem Link](https://www.codingninjas.com/codestudio/problems/pair-sum_697295?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTab=0)
+
+```c++
+Given array : 5 5
+              1 2 3 4 5
+Output : 1 4
+         2 3
+```
+
+>[📍Solution](/Day%2002/ArraysQuest/05.%20Pair%20Sum.md)
