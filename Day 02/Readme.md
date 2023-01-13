@@ -18,6 +18,10 @@ Output array : [2,1,4,3,6,5,7]
 ```
 >[📍Solution](/Day%2002/ArraysQuest/01.%20SwapAlternate%20elements.md)
 
+<br>
+<br>
+
+
 **2. Find unique number in array**
 
 [📍Leetcode Link](https://leetcode.com/problems/single-number/description/)
@@ -30,6 +34,9 @@ Output : 4
 ```
 >[📍Solution](/Day%2002/ArraysQuest/02.%20Find%20Unique%20number.md)
 
+<br>
+<br>
+
 **3. Duplicate in an array**
 
 [📍Problem Link](https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTab=0)
@@ -40,3 +47,23 @@ Output : 1
 ```
 
 >[📍Solution](/Day%2002/ArraysQuest/03.%20FInd%20duplicate%20number%20in%20array.md)
+
+
+<br>
+<br>
+
+**4. Intersection of two Arrays**
+
+[📍Problem Link](https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTab=0)
+
+```c++
+Given array : 1 2 2 2 3 4
+              2 2 3 3
+Output : 2 2 3
+```
+
+>[📍Solution](/Day%2002/ArraysQuest/04.%20Intersection%20of%20Two%20Arrays.md)
+
+
+<br>
+<br>
