@@ -109,3 +109,7 @@ Output      : 0 0 0 1 1 1 1 1
 
 <br>
 <br>
+
+<hr>
+
+[Homework](/Day%2002/ArraysQuest/Homework.md)
