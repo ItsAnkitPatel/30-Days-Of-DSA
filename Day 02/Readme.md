@@ -89,3 +89,23 @@ Output : 1 4
 ```
 
 >[📍Solution](/Day%2002/ArraysQuest/05.%20Pair%20Sum.md)
+
+<br>
+<br>
+<hr>
+
+**Date :** `14-01-2023`
+
+**6. Sort 0 and 1**
+
+[📍Problem Link](https://www.codingninjas.com/codestudio/problems/sort-0-1_624379?leftPanelTab=1)
+```c++
+Given array : 1 0 1 1 0 1 0 1
+
+Output      : 0 0 0 1 1 1 1 1
+```
+
+>[📍Soultion](/Day%2002/ArraysQuest/06.%20Sort%200%20and%201.md)
+
+<br>
+<br>
