@@ -42,3 +42,4 @@ For
 8. O(N!)
 
 
+>I recommend you better watch the video for better understanding of the concepts. Video cleared my all doubts now I understand this topic clearly. 
