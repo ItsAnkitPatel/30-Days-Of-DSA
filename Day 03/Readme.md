@@ -10,7 +10,7 @@ In every coding interview when the interviewer asks a coding question and you gi
 **What is Time & Space complexity ?**
 >Time complexity basically is : The total time taken by a program (or we can say function input length) to run for doing a specific task is called Time complexity.<br>
 
->Space complexity : The total extra spaces(like creation of an extra array during run time ) that is used by the program for its execution is called Space complexity.
+>Space complexity : The total memory taken by the program for its execution is called Space complexity.
 
 **Why we need it ?**
 >To compare the efficiency of algorithms and make comparisons between other algorithms efficiency which doing the same task but their running time is different and to measure that we use these two concepts everytime in every program.
