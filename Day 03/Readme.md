@@ -14,3 +14,19 @@ In every coding interview when the interviewer asks a coding question and you gi
 
 **Why we need it ?**
 >To compare the efficiency of algorithms and make comparisons between other algorithms efficiency which doing the same task but their running time is different and to measure that we use these two concepts everytime in every program.
+
+**How to show/denote time and space complexity ?**
+>By using notations
+- Big O notation (Upper Bound)  &ensp; _O is not_ ~zero(0)~   *it's alphabet of english i.e O*
+- Theta (Average Bound)
+- Omega (Lower Bound)
+
+We mainly use Big O to give an upper bound to show running time of an program, means a program will not cross this limit whatever time it will take it will be under this big O.
+
+For
+- Constant time : O(1) we say it as "Big O of 1" time complexity
+- Linear time : O(n) we say it as "Big O of n" time complexity
+- Logarithmic time : O(log n)
+- Quadratic time : O(n<sup>2</sup>) we say it as "Big O of n square" time complexity
+- Cubic time : O(n<sup>3</sup>)
+
