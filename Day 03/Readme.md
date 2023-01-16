@@ -31,14 +31,14 @@ For
 - Cubic time : O(n<sup>3</sup>)
 
 **Best to worst time complexity**
-```
-1. O(1)                       |
-2. O(log n)                   |   Best to worst time complexity
-3. O(n)                       |
-4. O(n log n)                 |
-5. O(n<sup>2</sup>)           |
-6. O(n<sup>3</sup>)           |
-7. O(2<sup>n</sup>)           |
-8. O(N!)                     \|/
-```
+
+1. O(1)
+2. O(log n)
+3. O(n)
+4. O(n log n)
+5. O(n<sup>2</sup>)
+6. O(n<sup>3</sup>)
+7. O(2<sup>n</sup>)
+8. O(N!)
+
 
