@@ -27,7 +27,7 @@ Execution of binary search
 
 5. If your target value is equal to the mid indext then congrats you find your target value if not then you have two cases<br><br>
  5.1. Case 1: If your target value is less than the **mid** index of array then we will move our **end** to _mid - 1_ index and the **start** will be same as before.<br><br>
- 5.2. Case 2: If your target value is greater than the **mid** index of array then we will move our **start** to _mid - 1_ index and the **end** will be same as before.
+ 5.2. Case 2: If your target value is greater than the **mid** index of array then we will move our **start** to _mid + 1_ index and the **end** will be same as before.
 
 6. Then again we will repeat step 4 & 5 again
 
