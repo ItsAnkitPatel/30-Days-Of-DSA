@@ -34,4 +34,5 @@ Execution of binary search
 7. If your _start_ and _end_ crossed each other than your target value is not present in the given array.
 
 <br>
+
 The worst case time complexity of Binary search is : **O(log n)** 
