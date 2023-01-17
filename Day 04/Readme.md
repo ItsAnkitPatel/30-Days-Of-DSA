@@ -29,8 +29,9 @@ Execution of binary search
  5.1. Case 1: If your target value is less than the **mid** index of array then we will move our **end** to _mid - 1_ index and the **start** will be same as before.<br><br>
  5.2. Case 2: If your target value is greater than the **mid** index of array then we will move our **start** to _mid + 1_ index and the **end** will be same as before.
 
-6. Then again we will repeat step 4 & 5 again
+6. Then we will repeat step 4 & 5 again
 
 7. If your _start_ and _end_ crossed each other than your target value is not present in the given array.
 
-And the worst case time complexity of Binary search is : **O(log n)** 
+<br>
+The worst case time complexity of Binary search is : **O(log n)** 
