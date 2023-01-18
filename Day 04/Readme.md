@@ -17,15 +17,15 @@ or we left with only one index in the end.
 
 Execution of binary search
 
-1. We will take two pointer approach , we will use two variables name as _start _  _end_ 
+1. We will take two pointer approach , we will use two variables name as _start_  & _end_ 
 
-2. start will point to the starting index of array i.e 0
+2. **start** will point to the starting index of array i.e 0
 
-3. end will point to the last index of array i.e array of length -1 -> means **n-1**
+3. **end** will point to the last index of array i.e array of length -1 -> means **n-1**
 
-4. After that we will take the mid index by adding star & end and divide the sum by 2 i.e (sum+end)/2
+4. After that we will take the mid index by adding start & end and divide the sum by 2 i.e (start+end)/2
 
-5. If your target value is equal to the mid indext then congrats you find your target value if not then you have two cases<br><br>
+5. If your target value is equal to the mid index then congrats you find your target value if not then you have two cases<br><br>
  5.1. Case 1: If your target value is less than the **mid** index of array then we will move our **end** to _mid - 1_ index and the **start** will be same as before.<br><br>
  5.2. Case 2: If your target value is greater than the **mid** index of array then we will move our **start** to _mid + 1_ index and the **end** will be same as before.
 
