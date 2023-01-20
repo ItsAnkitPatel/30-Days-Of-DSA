@@ -36,3 +36,12 @@ Execution of binary search
 <br>
 
 The worst case time complexity of Binary search is : **O(log n)** 
+
+There is an issue with this way of finding mid index i.e **mid =(start + end)/2**
+
+Suppose what if the _start_ value is 2<sup>31</sup> & _end_ value is 2<sup>31</sup> - 1 , when we add these values we actually crossed the range of integer and we know that the integer range is only 2<sup>31</sup> - 1 and since array indexes cannot be negative so we do not need to worry about negative range of integer .
+
+**So what is the solution ?**
+>We will tweak the formula a little bit i.e : **mid = start + (end-start)/2**
+
+It is better to be on safe side rather than worry about if your test cases will pass or not because of mid calculation.
