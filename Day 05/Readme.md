@@ -24,3 +24,8 @@ Sample Output :
 
 >[Solution](/Day%2005/Solutions)
 >_Always try to solve from your side first_
+
+
+2.Peak index in a Mountain array
+
+[LeetCode Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
