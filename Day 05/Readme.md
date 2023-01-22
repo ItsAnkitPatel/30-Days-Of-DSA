@@ -29,3 +29,12 @@ Sample Output :
 2.Peak index in a Mountain array
 
 [LeetCode Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+```
+Input: arr = [0,2,1,0]
+Output: 1
+
+Input: arr = [0,10,5,2]
+Output: 1
+```
+
+>[Solution](/Day%2005/Solutions/02.%20Peak%20Index%20in%20a%20Mountain%20array.md)
