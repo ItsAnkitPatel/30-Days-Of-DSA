@@ -66,6 +66,8 @@ Output: -1
 
 >[Solution](/Day%2005/Solutions/03.%20Search%20in%20Rotated%20Sorted%20Array.md)
 
+<br>
+<br>
 
 **2. Square Root**
 [LeetCode Link](https://leetcode.com/problems/sqrtx/)
