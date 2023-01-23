@@ -65,3 +65,14 @@ Output: -1
 ```
 
 >[Solution](/Day%2005/Solutions/03.%20Search%20in%20Rotated%20Sorted%20Array.md)
+
+
+**2. Square Root**
+[LeetCode Link](https://leetcode.com/problems/sqrtx/)
+```
+Input: x = 4
+Output: 2
+Explanation: The square root of 4 is 2, so we return 2.
+```
+
+>[Solution](/Day%2005/Solutions/04.%20Square%20Root.md)
