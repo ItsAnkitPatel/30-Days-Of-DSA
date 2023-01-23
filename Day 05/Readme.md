@@ -3,9 +3,9 @@
 ### Topic : Binary Search Interview Questions
 [📍Video Link](https://www.youtube.com/watch?v=zD2Jg3alZV8&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=13&ab_channel=CodeHelp-byBabbar)
 
-**Questions**
+### Questions
 
-1.First and Last Position of an Element In Sorted Array
+**1.First and Last Position of an Element In Sorted Array**
 
 [Codestudio Link](https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)
 
@@ -28,7 +28,7 @@ Sample Output :
 <br>
 <br>
 
-2.Peak index in a Mountain array
+**2.Peak index in a Mountain array**
 
 [LeetCode Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 ```
@@ -40,3 +40,28 @@ Output: 1
 ```
 
 >[Solution](/Day%2005/Solutions/02.%20Peak%20Index%20in%20a%20Mountain%20array.md)
+
+<br>
+
+<hr>
+
+**Date :** `23-01-2023`
+## Lecture : 14
+### Topic : Binary Search Interview Questions (ProblemSet - 2)
+[📍Video Link](https://www.youtube.com/watch?v=6z2HK4o8qcU&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=14&ab_channel=CodeHelp-byBabbar)
+
+**1.Search in rotated sorted Array**
+
+[Codestudio Link](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTab=1)
+
+[LeetCode Link](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+```
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+```
+
+
