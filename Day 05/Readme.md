@@ -70,6 +70,7 @@ Output: -1
 <br>
 
 **2. Square Root**
+
 [LeetCode Link](https://leetcode.com/problems/sqrtx/)
 ```
 Input: x = 4
@@ -78,3 +79,17 @@ Explanation: The square root of 4 is 2, so we return 2.
 ```
 
 >[Solution](/Day%2005/Solutions/04.%20Square%20Root.md)
+
+<hr>
+
+**Date :** `25-01-2023`
+## Lecture : 15
+### Topic : Binary Search Advance Problems
+[📍Vide Link](https://www.youtube.com/watch?v=YTTdLgyqOLY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=15)
+
+<br>
+<br>
+
+**1. Allocate Books**
+
+[CodeStudio Link](https://www.codingninjas.com/codestudio/problems/allocate-books_1090540)
