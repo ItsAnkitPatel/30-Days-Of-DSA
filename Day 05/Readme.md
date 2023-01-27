@@ -85,7 +85,7 @@ Explanation: The square root of 4 is 2, so we return 2.
 **Date :** `25-01-2023`
 ## Lecture : 15
 ### Topic : Binary Search Advance Problems
-[📍Vide Link](https://www.youtube.com/watch?v=YTTdLgyqOLY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=15)
+[📍Video Link](https://www.youtube.com/watch?v=YTTdLgyqOLY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=15)
 
 <br>
 <br>
