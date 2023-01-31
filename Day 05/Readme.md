@@ -94,4 +94,12 @@ Explanation: The square root of 4 is 2, so we return 2.
 
 [CodeStudio Link](https://www.codingninjas.com/codestudio/problems/allocate-books_1090540)
 
->Its `29-01-2023` and I still do not understand the solution of this question yet. Already wathed the video 3 times 😶‍🌫️ and my head is still cloudy. *(sigh)*   yeah logic building take time man
+>Its `29-01-2023` and I still do not understand the solution of this question yet. Already wathed the video 3 times 😶‍🌫️ and my head is still cloudy. *(sigh)*   yeah logic building takes time man
+
+##### <code>31-01-2023</code> Finally I did it ! I am able to solve the code without looking at the solution 🤓
+
+<img src ="https://media4.giphy.com/media/j0vs5H7Kcz3Pm9LRDa/giphy.gif?cid=ecf05e47tuyrjwr3tlyaqfteajocp6diirn5hchvjo7cm9ly&rid=giphy.gif&ct=g" height = "250">
+
+<br>
+
+>[Solution](/Day%2005/Solutions/05.%20Allocate%20Books.md)
