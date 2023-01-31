@@ -94,6 +94,18 @@ Explanation: The square root of 4 is 2, so we return 2.
 
 [CodeStudio Link](https://www.codingninjas.com/codestudio/problems/allocate-books_1090540)
 
+
+```
+Sample Input :
+4 2
+12 34 67 90
+Output : 113
+
+4 4
+5 17 100 11
+Output : 100
+```
+
 >Its `29-01-2023` and I still do not understand the solution of this question yet. Already wathed the video 3 times 😶‍🌫️ and my head is still cloudy. *(sigh)*   yeah logic building takes time man
 
 ##### <code>31-01-2023</code> Finally I did it ! I am able to solve the code without looking at the solution 🤓
