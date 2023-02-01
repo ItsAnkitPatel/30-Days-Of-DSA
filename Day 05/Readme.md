@@ -130,5 +130,4 @@ Sample Input :
 Output : 60
 ```
 
-[CodeStudio Link]([url](https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557))
-
+[CodeStudio Link](https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557)
