@@ -115,3 +115,20 @@ Output : 100
 <br>
 
 >[Solution](/Day%2005/Solutions/05.%20Allocate%20Books.md)
+
+
+**2. Painter's Partition Problem**
+```
+Sample Input : 
+4 2
+5 5 5 5
+Output : 10
+
+Sample Input :
+4 2
+10 20 30 40
+Output : 60
+```
+
+[CodeStudio Link]([url](https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557))
+
