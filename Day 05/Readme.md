@@ -116,6 +116,8 @@ Output : 100
 
 >[Solution](/Day%2005/Solutions/05.%20Allocate%20Books.md)
 
+<br>
+<br>
 
 **2. Painter's Partition Problem**
 ```
@@ -135,3 +137,22 @@ Output : 60
 >The approach is same as allocate books problem.
 
 >[Solution](/Day%2005/Solutions/06.%20Painter%20Partition%20Problem.md)
+
+<br>
+<br>
+
+**3. Aggresive Cows Problem**
+
+```
+Sample Input :
+3 2
+1 2 3
+Output : 2
+
+Sample Input :
+5 2
+4 2 1 3 6
+Output : 5
+```
+
+[CodeStudio Link](https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559)
