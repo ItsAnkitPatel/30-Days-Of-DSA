@@ -131,3 +131,7 @@ Output : 60
 ```
 
 [CodeStudio Link](https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557)
+
+>The approach is same as allocate books problem.
+
+>[Solution](/Day%2005/Solutions/06.%20Painter%20Partition%20Problem.md)
